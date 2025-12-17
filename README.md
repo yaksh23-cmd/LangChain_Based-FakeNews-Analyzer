@@ -12,7 +12,6 @@ Manual verification of news is slow and prone to bias. This project automates th
 * **AI Model:** ]HuggingFace Hub
 * **Frontend:** Streamlit (for a simple web UI)
 * **Vector Store:** FAISS (for storing reference contexts - *optional*)
-* **Libraries:** Pandas, NumPy, Scikit-learn
 <img width="1012" height="541" alt="image" src="https://github.com/user-attachments/assets/1350d969-4029-4101-a2b1-7692280e1898" />
 
 ## ⚙️ How It Works (System Architecture)
