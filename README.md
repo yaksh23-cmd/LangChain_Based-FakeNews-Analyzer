@@ -50,4 +50,3 @@ The system follows a 3-step pipeline:
 * **Financial Domain Fine-Tuning:** Specialize the model to detect "Pump and Dump" stock schemes specifically for banking use cases.
 
 ---
-*Created by [Your Name] - 2025*
