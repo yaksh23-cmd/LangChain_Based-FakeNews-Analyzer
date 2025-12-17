@@ -1,0 +1,6 @@
+requests
+newspaper3k
+openai
+GoogleNews
+lxml_html_clean
+
